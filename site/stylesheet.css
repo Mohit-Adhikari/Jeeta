@@ -1,0 +1,18 @@
+p{
+			white-space: pre-line;
+		}
+.preface{
+			font-family:'KUNSTLER', cursive;
+			font-size: 17px;
+		}
+.about{
+			font-family: serif;
+			font-size: 20px;
+		}
+.color{
+			color: blue;
+		}
+a:hover, a:active{
+			
+			background-color: red;
+		}
