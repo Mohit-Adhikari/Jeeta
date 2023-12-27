@@ -1,18 +1,21 @@
-p{
-			white-space: pre-line;
-		}
-.preface{
-			font-family:'KUNSTLER', cursive;
-			font-size: 17px;
-		}
-.about{
-			font-family: serif;
-			font-size: 20px;
-		}
-.color{
-			color: blue;
-		}
-a:hover, a:active{
-			
-			background-color: red;
-		}
+*{
+	box-sizing: border-box;
+	margin: 5px;
+
+	padding: 0;
+}
+h1{
+	border:2px solid grey;
+	width: 300px;
+	height: 40px;
+	padding: 5px;
+	}
+p
+{
+	white-space: pre-line;
+
+}
+#paragraph{
+	border: 5px solid black;
+
+}
